@@ -1,0 +1,32 @@
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\Supermarket Management System.exe
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\Supermarket Management System.deps.json
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\Supermarket Management System.runtimeconfig.json
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\Supermarket Management System.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\Supermarket Management System.pdb
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Admin_Login.resources
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Properties.Resources.resources
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.csproj.GenerateResource.cache
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.AssemblyInfoInputs.cache
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.AssemblyInfo.cs
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.csproj.CoreCompileInputs.cache
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\refint\Supermarket Management System.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.pdb
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.genruntimeconfig.cache
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\ref\Supermarket Management System.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Market.resources
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket Management System.csproj.AssemblyReference.cache
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermar.4FC8E29B.Up2Date
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Product.resources
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Customer.resources
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Orders.resources
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Inventory.resources
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Dashboard.resources
+D:\Coding\ASP.NET Programes\Supermarket Management System\Supermarket Management System\obj\Debug\net9.0-windows\Supermarket_Management_System.Register_Page.resources
